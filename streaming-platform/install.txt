@@ -1,0 +1,42 @@
+STREAMING PLATFORM - INSTALLATION GUIDE
+=======================================
+
+1. INSTALLATION STEPS:
+   -------------------
+   a. Copy the entire 'streaming-platform' folder to XAMPP's htdocs folder
+   b. Start XAMPP (Apache and MySQL)
+   c. Open phpMyAdmin (http://localhost/phpmyadmin)
+   d. Create new database: 'streaming_db'
+   e. Import the SQL file: sql/database.sql
+   f. Set permissions: Run install.bat (Windows) or manually:
+      - chmod 777 uploads/
+      - chmod 777 videos/
+
+2. TESTING:
+   ---------
+   a. Open: http://localhost/streaming-platform/public/
+   b. Click "Run Full Test"
+   c. Use test credentials:
+      - Admin: admin@stream.com / admin123
+      - User: user@stream.com / user123
+
+3. API DOCUMENTATION:
+   ------------------
+   Main Endpoints:
+   - POST /api/auth.php?action=login
+   - POST /api/auth.php?action=register
+   - GET  /api/videos.php?action=list
+   - GET  /api/videos.php?action=get&id=1
+   - POST /api/videos.php?action=upload
+   - GET  /api/stream.php?id=1
+
+4. TROUBLESHOOTING:
+   ----------------
+   Issue: Database connection failed
+   Fix: Check if MySQL is running in XAMPP
+
+   Issue: File upload not working
+   Fix: Check uploads/ directory permissions
+
+   Issue: API returns 404
+   Fix: Check if .htaccess file exists in public/

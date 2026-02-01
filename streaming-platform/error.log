@@ -1,0 +1,72 @@
+[12-Jan-2026 14:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 14:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 14:22:42 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 14:26:31 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 14:52:42 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 15:37:58 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 15:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 15:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 16:46:52 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 16:47:02 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 16:47:02 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
+[12-Jan-2026 16:48:25 UTC] PHP Fatal error:  Uncaught Error: Class "Video" not found in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php:11
+Stack trace:
+#0 C:\xampp\htdocs\streaming-platform\app\controllers\VideoController.php(17): VideoService->__construct()
+#1 C:\xampp\htdocs\streaming-platform\api\videos.php(20): VideoController->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\streaming-platform\app\services\VideoService.php on line 11
